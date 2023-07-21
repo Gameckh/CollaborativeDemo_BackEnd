@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/Work/Source/GcExcel/ds-excel-java2/Source/SpreadServices4J/lib/maven-ant-tasks-2.1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Work/Source/GcExcel/ds-excel-java2/Source/SpreadServices4J/lib/jce.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

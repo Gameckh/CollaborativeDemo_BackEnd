@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libs1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/Work/Source/GcExcel/ds-excel-java2/Source/Model.Shell/libs/commons-logging-1.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Work/Source/GcExcel/ds-excel-java2/Source/Model.Shell/libs/pdfbox-2.0.19.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Work/Source/GcExcel/ds-excel-java2/Source/Model.Shell/libs/fontbox-2.0.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

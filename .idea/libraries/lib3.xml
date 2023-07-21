@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/Work/Source/GcExcel/ds-excel-java2/Source/WindowsBase/lib/xmlsec-2.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Work/Source/GcExcel/ds-excel-java2/Source/WindowsBase/lib/SparseBitSet-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Work/Source/GcExcel/ds-excel-java2/Source/WindowsBase/lib/ooxml-security-1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Work/Source/GcExcel/ds-excel-java2/Source/WindowsBase/lib/commons-compress-1.20.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Work/Source/GcExcel/ds-excel-java2/Source/WindowsBase/lib/slf4j-api-1.7.30.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Work/Source/GcExcel/ds-excel-java2/Source/WindowsBase/lib/bcprov-ext-jdk15on-1.64.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Work/Source/GcExcel/ds-excel-java2/Source/WindowsBase/lib/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Work/Source/GcExcel/ds-excel-java2/Source/WindowsBase/lib/xmlbeans-3.1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Work/Source/GcExcel/ds-excel-java2/Source/WindowsBase/lib/bcpkix-jdk15on-1.64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

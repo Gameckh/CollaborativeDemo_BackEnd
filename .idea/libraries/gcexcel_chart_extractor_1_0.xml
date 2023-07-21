@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gcexcel-chart-extractor-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/gcexcel-chart-extractor-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

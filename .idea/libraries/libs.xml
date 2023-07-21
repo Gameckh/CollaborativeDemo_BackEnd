@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/Work/Source/GcExcel/ds-excel-java2/Source/Model.IO.Json/libs/javax.json-1.0.4-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Work/Source/GcExcel/ds-excel-java2/Source/Model.IO.Json/libs/javax.json-1.0.4-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Work/Source/GcExcel/ds-excel-java2/Source/Model.IO.Json/libs/javax.json-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
